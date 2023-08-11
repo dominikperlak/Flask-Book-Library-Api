@@ -1,0 +1,2 @@
+FLASK_APP=book_library_app
+FLASK_DEBUG=1
